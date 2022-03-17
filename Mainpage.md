@@ -3,4 +3,4 @@
 ## [阿里面经](/alibaba.md)
 ## [字节面经](/bytedance.md)
 ## [美团面经](/meituan.md)
-## [相关知识](/knowledge.md)
+## [相关知识](/knowledge/knowledge.md)
