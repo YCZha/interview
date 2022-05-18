@@ -4,5 +4,5 @@
 ## [字节面经](/bytedance.md)
 ## [美团面经](/meituan.md)
 ## [图森未来面经](/tusen.md)
-## [广发证券](/guangfa.md)
+## [广发证券](/quanshang.md)
 ## [相关知识](/knowledge/knowledge.md)
